@@ -1,4 +1,3 @@
-```python
 import asyncio
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from pyrogram import Client, filters, idle, enums
@@ -2180,4 +2179,3 @@ async def main():
 
 if __name__ == '__main__':
     asyncio.run(main())
-```
